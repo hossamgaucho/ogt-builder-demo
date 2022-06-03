@@ -1,0 +1,146 @@
+.nav-bg {
+  background-color: #312c51;
+  padding: 20px;
+  text-align: center;
+}
+
+.anchor {
+  text-decoration: none !important;
+  color: aliceblue !important;
+}
+
+.site-title {
+  text-decoration: none !important;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #f0c38e;
+  padding-left: 50px;
+}
+.nav-img {
+  display: inline;
+}
+.menu-items {
+  display: inline;
+  color: aliceblue;
+}
+.menu-items a {
+  margin: 0px 20px;
+}
+.header {
+  background-color: #48426d;
+  padding: 50px 70px;
+}
+h1,
+h2,
+h3,
+p,
+label {
+  color: aliceblue;
+  text-align: center;
+}
+a {
+  color: #f0c38e;
+}
+
+.app {
+  padding: 50px 0px;
+  background-color: #312c51;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 1500px;
+}
+
+.front-options {
+  text-align: center;
+  height: 360px;
+  position: relative;
+  width: 1280px;
+}
+
+.base1 {
+  position: absolute;
+  height: 360px;
+}
+
+.fwrap1 {
+  position: absolute;
+  height: 360px;
+  visibility: hidden;
+}
+
+.fwrap2 {
+  position: absolute;
+  height: 360px;
+  visibility: hidden;
+}
+
+.foption1 {
+  position: absolute;
+  height: 360px;
+  visibility: hidden;
+}
+
+.foption2 {
+  position: absolute;
+  height: 360px;
+  visibility: hidden;
+}
+.btn-front {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.back-options {
+  text-align: center;
+  width: 1280px;
+  height: 360px;
+  position: relative;
+}
+
+.base2 {
+  position: absolute;
+  height: 360px;
+}
+
+.bwrap1 {
+  position: absolute;
+  height: 360px;
+  visibility: hidden;
+}
+
+.bwrap2 {
+  position: absolute;
+  height: 360px;
+  visibility: hidden;
+}
+
+.boption1 {
+  position: absolute;
+  height: 360px;
+  visibility: hidden;
+}
+
+.boption2 {
+  position: absolute;
+  height: 360px;
+  visibility: hidden;
+}
+
+.btn-back {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+#footer {
+  color: #48426d;
+  text-align: center;
+  padding: 30px;
+  background-color: #f0c38e;
+}
